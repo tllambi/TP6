@@ -3,7 +3,7 @@
 #define DEPTH 2
 int word(char *pointer);
 int analize(char *pointer1, char *pointer2, int cantidad1, int cantidad2);
-//probando gitttttttt e_e
+//probando gitttttttt e_e, Y AHORA Q PASA?????
 int main (void)
 {
 	int result;
