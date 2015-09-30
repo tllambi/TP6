@@ -18,13 +18,7 @@ int main (void)
 		printf("The program will stop running\n");
 		return 0;
 	}
-	if(word(pointer2)>MAXWORDLENGTH)
-	{
-		printf("Invalid length of text\n");
-		printf("The program will stop running\n");
-		return 0;
-	}
-
+//asdasjdasldjasdj borre todo jajajajaja (?
 	//int cantidad1=countchar(pointer1);
 	//int cantidad2=countchar(pointer2);
 
