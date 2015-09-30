@@ -11,7 +11,7 @@ int main (void)
 	char *pointer1,*pointer2;
 	pointer1=&wordmatrix[0][0];
 	pointer2=&wordmatrix[1][0];
-
+	result=0; //probando cosas gittt
 	if(word(pointer1)>MAXWORDLENGTH)
 	{
 		printf("Invalid length of text\n");
